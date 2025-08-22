@@ -1,0 +1,274 @@
+id,Tipo,Año,Color,Tipo de combustible,Transmisión,Motor,Kilómetros,Tipo de vendedor,Precio
+13599,RAV4,2013.0,Gris,Nafta,Automática,2.4,140000 km,concesionaria,8612.440191387559
+9865,Hilux SW4,2013.0,Plateado,Diésel,Automática,3.0,240000 km,particular,14500.0
+13501,RAV4,2014.0,,Nafta,Automática,2.5,160000 km,particular,19800.0
+16288,Hilux SW4,2021.0,Blanco,Diésel,Automática,2.8,32000 km,concesionaria,51674.64114832536
+16519,Hilux SW4,2023.0,Blanco,Diésel,Automática,2.8,1800 km,concesionaria,53000.0
+13609,RAV4,2011.0,,Nafta,Automática,2.4,99000 km,concesionaria,13500.0
+9875,Hilux SW4,2017.0,,Diésel,Automática,2.8,20000 km,particular,25000.0
+4551,Corolla Cross,2022.0,,Nafta,Automática,2.0,74000 km,concesionaria,33014.35311004785
+16405,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,1000 km,particular,56500.0
+16596,Hilux SW4,2014.0,,Nafta,Automática,2.7,235000 km,particular,23500.0
+13618,RAV4,2014.0,Negro,Nafta,Automática,2.0,124000 km,concesionaria,20095.693779904308
+13692,RAV4,2013.0,,Nafta,Automática,2.0,228000 km,particular,15119.617224880383
+4634,Corolla Cross,2022.0,,Híbrido/Nafta,Automática,1.8,51000 km,particular,33500.0
+15866,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,0 km,tienda,59646.88995215311
+16015,Hilux SW4,2016.0,Gris,Diésel,Automática,2.8,100000 km,concesionaria,36900.0
+4867,Corolla Cross,2022.0,Gris,Híbrido/Nafta,Automática,1.8,1850 km,particular,31000.0
+16314,Hilux SW4,2019.0,Gris,Diésel,Manual,2.8,62528 km,concesionaria,38500.0
+9842,Hilux SW4,2013.0,,Diésel,Automática,3.0,150000 km,particular,28708.133971291867
+16740,Hilux SW4,2013.0,Gris,Nafta,Automática,2.7,175000 km,concesionaria,18900.0
+16187,Hilux SW4,2014.0,,Nafta,Automática,2.7,276000 km,concesionaria,25741.626794258373
+13615,RAV4,2013.0,,Nafta,Automática,2.4,156000 km,concesionaria,21500.0
+9862,Hilux SW4,2015.0,,Diésel,Automática,3.0,97600 km,particular,34500.0
+16245,Hilux SW4,2022.0,,Diésel,Automática,2.8,35000 km,concesionaria,54000.0
+4822,Corolla Cross,2022.0,,Híbrido/Nafta,Automática,1.8,29500 km,particular,28500.0
+16168,Hilux SW4,2008.0,,Diésel,Automática,3.0,251000 km,concesionaria,18300.0
+16085,Hilux SW4,2007.0,Negro,Diésel,Automática,3.0,215000 km,concesionaria,20000.0
+16411,Hilux SW4,2019.0,Plateado,Diésel,Manual,2.8,140000 km,concesionaria,35215.311004784686
+13552,RAV4,2019.0,,Nafta,Automática,2.5,70000 km,concesionaria,42000.0
+15955,Hilux SW4,2010.0,,Diésel,Automática,3.0,170000 km,particular,22000.0
+13577,RAV4,2012.0,Negro,Nafta,Automática,2.4,235000 km,concesionaria,11900.0
+16127,Hilux SW4,2013.0,Dorado,Nafta,Automática,2.7,180000 km,tienda,22966.50717703349
+15809,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,0 km,tienda,53687.36842105263
+15841,Hilux SW4,2018.0,Gris,Diésel,Automática,2.8,116000 km,concesionaria,39300.0
+16699,Hilux SW4,2017.0,,Diésel,Automática,2.8,19048 km,particular,40000.0
+16502,Hilux SW4,2018.0,Negro,Diésel,Automática,2.8,40000 km,concesionaria,41500.0
+16310,Hilux SW4,2007.0,,Diésel,Manual,3.0,140000 km,concesionaria,20095.693779904308
+16333,Hilux SW4,2021.0,Gris,Diésel,Automática,2.8,20000 km,concesionaria,45933.01435406699
+16272,Hilux SW4,2017.0,Gris,Diésel,Automática,2.8,150000 km,concesionaria,30622.00956937799
+13548,RAV4,2014.0,Gris,Nafta,Automática,2.0,120000 km,concesionaria,19500.0
+13505,RAV4,2014.0,Plateado,Nafta,Automática,2.5,100000 km,particular,21000.0
+16037,Hilux SW4,2020.0,Blanco,Diésel,Automática,2.8,60000 km,particular,40000.0
+16654,Hilux SW4,2018.0,,Diésel,Automática,2.8,129000 km,particular,35900.0
+4653,Corolla Cross,2022.0,Gris,Eléctrico,Automática,1.8,1000 km,concesionaria,34900.0
+13514,RAV4,2018.0,,Nafta,Automática,2.0,56000 km,particular,26500.0
+4620,Corolla Cross,2023.0,Blanco,Nafta,Automática,2.0,0 km,concesionaria,33444.97607655502
+16571,Hilux SW4,2020.0,Gris,Diésel,Automática,2.8,90000 km,particular,39990.0
+16181,Hilux SW4,2024.0,,Diésel,Automática,2.8,7000 km,concesionaria,51900.0
+16264,Hilux SW4,2007.0,Gris,Diésel,Automática,3.0,512000 km,concesionaria,18660.28708133972
+4448,Corolla Cross,2024.0,,Nafta,Automática,2.0,0 km,tienda,36363.63636363636
+4546,Corolla Cross,2022.0,Blanco,Nafta,Automática,INYECCION MULTI PUNTO,79918 km,tienda,24401.91387559809
+4528,Corolla Cross,2024.0,Gris,Híbrido/Nafta,Automática,1.8,1500 km,concesionaria,36842.10526315789
+16193,Hilux SW4,2016.0,Blanco,Diésel,Manual,2.8,70511 km,concesionaria,34258.37320574163
+16729,Hilux SW4,2024.0,Gris,Diésel,Automática,2.8,1111111 km,concesionaria,58900.0
+15893,Hilux SW4,2023.0,,Diésel,Automática,2.8,1850 km,particular,53492.82296650718
+9857,Hilux SW4,2007.0,Negro,Diésel,Automática,3.0,180000 km,particular,21500.0
+16091,Hilux SW4,2023.0,,Diésel,Automática,2.8,0 km,concesionaria,56363.63636363636
+4411,Corolla Cross,2024.0,Gris,Nafta,Automática,2.0,0 km,tienda,31849.76076555024
+16622,Hilux SW4,2012.0,,Diésel,Manual,3.0,215000 km,particular,26500.0
+16527,Hilux SW4,2022.0,,Diésel,Automática,2.8,33000 km,particular,58000.0
+16003,Hilux SW4,2018.0,Gris,Diésel,Automática,2.8,118520 km,particular,37000.0
+16293,Hilux SW4,2008.0,Plateado,Diésel,Manual,3.0,280000 km,concesionaria,17900.0
+15891,Hilux SW4,2023.0,Blanco,Diésel,Automática,2.8,500 km,concesionaria,57900.0
+4790,Corolla Cross,2023.0,Gris,Nafta,Automática,,60 km,concesionaria,32500.0
+16182,Hilux SW4,2010.0,,Diésel,Manual,3.0,190000 km,concesionaria,22000.0
+4435,Corolla Cross,2021.0,Rojo,Nafta,Automática,2.0,52320 km,tienda,25837.32057416268
+16472,Hilux SW4,2018.0,,Diésel,Automática,2.8,125000 km,concesionaria,37799.04306220096
+4692,Corolla Cross,2021.0,Blanco,Híbrido/Nafta,Automática,1.8,30000 km,concesionaria,31500.0
+4507,Corolla Cross,2023.0,,Nafta,Automática,2.0,16000 km,concesionaria,33000.0
+16390,Hilux SW4,2018.0,Gris,Diésel,Automática,2.8,89600 km,concesionaria,37598.08612440191
+13663,RAV4,2011.0,,Nafta,Automática,2.4,83000 km,particular,14000.0
+13565,RAV4,2013.0,,Nafta,Automática,2.4,150000 km,concesionaria,18500.0
+16505,Hilux SW4,2013.0,,Nafta,Automática,2.7,144000 km,concesionaria,24000.0
+4618,Corolla Cross,2023.0,Negro,Nafta,Automática,2.0,13000 km,concesionaria,34500.0
+4807,Corolla Cross,2022.0,,Híbrido/Nafta,Automática,1.8,50000 km,particular,30622.00956937799
+15846,Hilux SW4,2023.0,Blanco,Diésel,Automática,2.8,999 km,particular,50662.39138755981
+16074,Hilux SW4,2018.0,Blanco,Diésel,Automática,2.8,100700 km,concesionaria,39000.0
+9803,Hilux SW4,2007.0,,Diésel,Manual,3.0,260000 km,concesionaria,16267.942583732058
+16241,Hilux SW4,2013.0,,Diésel,Manual,3.0,174000 km,concesionaria,24401.91387559809
+4479,Corolla Cross,2021.0,,Híbrido/Nafta,Automática,1.8,105000 km,particular,32000.0
+9805,Hilux SW4,2024.0,,Diésel,Manual,2.8,25000 km,particular,40191.387559808616
+4566,Corolla Cross,2023.0,Gris,Nafta,Automática,1,17558 km,tienda,29626.794258373207
+4716,Corolla Cross,2023.0,Gris,Nafta,Automática,2.0,9000 km,concesionaria,33492.82296650718
+4511,Corolla Cross,2023.0,Gris,Nafta,Automática,2.0,5000 km,particular,32900.0
+16069,Hilux SW4,2016.0,Gris,Diésel,Automática,2.8,97000 km,concesionaria,34500.0
+16043,Hilux SW4,2011.0,Gris,Diésel,Automática,3.0,195000 km,particular,24000.0
+16646,Hilux SW4,2021.0,,Diésel,Automática,2.8,100000 km,particular,40800.0
+16121,Hilux SW4,2007.0,,Diésel,Automática,3.0,175000 km,concesionaria,19043.06220095693
+13629,RAV4,2014.0,,Nafta,Automática,2.0,177000 km,particular,19500.0
+16240,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,51500 km,concesionaria,52631.57894736842
+4526,Corolla Cross,2024.0,Blanco,Híbrido/Nafta,Automática,1.8,1000 km,concesionaria,38181.81818181818
+16684,Hilux SW4,2022.0,,Diésel,Manual,2.8,4900 km,particular,47000.0
+15843,Hilux SW4,2018.0,Blanco,Diésel,Automática,2.8,105000 km,tienda,38000.0
+15870,Hilux SW4,2016.0,Blanco,Diésel,Automática,2.8,160000 km,concesionaria,23827.75119617225
+16737,Hilux SW4,2016.0,Plateado,Diésel,Automática,2.8,202000 km,concesionaria,28500.0
+4390,Corolla Cross,2024.0,Blanco,Nafta,Automática,2.0,0 km,tienda,28602.87081339713
+4582,Corolla Cross,2024.0,Blanco,Nafta,Automática,2.0,0 km,tienda,36822.96650717704
+13671,RAV4,2012.0,,Nafta,Automática,2.4,185000 km,particular,15000.0
+4877,Corolla Cross,2023.0,,Nafta,Automática,2.0,23000 km,particular,32535.88516746412
+4840,Corolla Cross,2022.0,,Híbrido/Nafta,Automática,1.8,7500 km,particular,32500.0
+4749,Corolla Cross,2024.0,Blanco,Nafta,Automática,2.0,1111 km,concesionaria,34449.76076555024
+16073,Hilux SW4,2021.0,Blanco,Diésel,Automática,2.8,45000 km,concesionaria,53000.0
+4743,Corolla Cross,2023.0,Rojo,Nafta,Automática,2.0,8300 km,concesionaria,34449.66507177034
+16160,Hilux SW4,2013.0,Blanco,Diésel,Automática,3.0,234000 km,concesionaria,27272.727272727272
+4498,Corolla Cross,2024.0,,Híbrido/Nafta,Automática,1.8,500 km,particular,37033.49282296651
+16591,Hilux SW4,2013.0,Gris,Diésel,Automática,3.0,169000 km,particular,24900.0
+4696,Corolla Cross,2023.0,Plateado,Híbrido/Nafta,Automática,1.8,0 km,concesionaria,36363.63636363636
+16394,Hilux SW4,2024.0,Marrón,Diésel,Automática,2.8,0 km,concesionaria,64900.0
+13636,RAV4,2019.0,Blanco,Híbrido,Automática,2.5,49000 km,concesionaria,39900.0
+15862,Hilux SW4,2023.0,Plateado,Diésel,Automática,2.8,1111 km,particular,53900.0
+16415,Hilux SW4,2019.0,,Diésel,Manual,2.8,23900 km,concesionaria,43000.0
+9824,Hilux SW4,2018.0,Negro,Diésel,Automática,2.8,81000 km,concesionaria,43000.0
+4720,Corolla Cross,2022.0,Negro,Nafta,Automática,2,13700 km,concesionaria,31578.947368421053
+13660,RAV4,2011.0,,Nafta,Automática,2.4,235000 km,particular,11500.0
+4868,Corolla Cross,2022.0,Blanco,Híbrido/Nafta,Automática,1.8,11100 km,particular,33990.0
+13485,RAV4,2020.0,Blanco,Nafta,Automática,2.5,35500 km,concesionaria,42999.0
+9828,Hilux SW4,2017.0,,Diésel,Automática,2.8,72500 km,particular,38000.0
+4851,Corolla Cross,2023.0,Azul,Híbrido/Nafta,Automática,1.8,1000 km,particular,36900.0
+4464,Corolla Cross,2022.0,Negro,Nafta,Automática,1.8,0 km,tienda,31849.76076555024
+4647,Corolla Cross,2022.0,Blanco,Nafta,Automática,2.0,40000 km,concesionaria,31100.47846889952
+16045,Hilux SW4,2010.0,,Diésel,Automática,3.0,200000 km,particular,25000.0
+16685,Hilux SW4,2023.0,Negro,Diésel,Automática,2.8,22000 km,particular,55000.0
+16561,Hilux SW4,2021.0,,Diésel,Automática,2.8,128000 km,particular,43500.0
+16697,Hilux SW4,2011.0,,Diésel,Manual,3.0,382000 km,particular,21500.0
+4869,Corolla Cross,2023.0,,Nafta,Automática,2.0,18500 km,particular,30000.0
+15961,Hilux SW4,2020.0,,Diésel,Automática,2.8,40000 km,particular,43500.0
+9840,Hilux SW4,2013.0,,Nafta,Automática,2.7,190000 km,particular,25837.32057416268
+4721,Corolla Cross,2023.0,Blanco,Híbrido/Nafta,Automática,1.8,0 km,concesionaria,34900.0
+16094,Hilux SW4,2020.0,Gris,Diésel,Automática,2.8,102081 km,tienda,40191.387559808616
+16336,Hilux SW4,2011.0,Gris,Diésel,Manual,3.0,220000 km,concesionaria,25000.0
+9801,Hilux SW4,2013.0,,Nafta,Automática,2.7,130000 km,concesionaria,24880.38277511962
+9836,Hilux SW4,2011.0,,Diésel,Manual,3.0,257000 km,particular,24500.0
+13703,RAV4,2021.0,Blanco,Híbrido/Nafta,Automática secuencial,2.5 AWD,40000 km,particular,53000.0
+4641,Corolla Cross,2023.0,Plateado,Nafta,Automática,2.0,0 km,concesionaria,24114.83253588517
+16525,Hilux SW4,2023.0,,Diésel,Automática,2.8,8000 km,particular,52000.0
+13596,RAV4,2013.0,Plateado,Nafta,Automática,2.4,197000 km,particular,14000.0
+4852,Corolla Cross,2024.0,Plateado,Nafta,Automática,2.0,500 km,particular,34400.0
+4736,Corolla Cross,2023.0,Gris,Híbrido/Nafta,Automática,1.8,0 km,concesionaria,30133.014354066985
+15929,Hilux SW4,2007.0,Gris,Diésel,Automática,3.0,220000 km,particular,17224.880382775118
+15839,Hilux SW4,2017.0,Plateado,Diésel,Automática,2.8,96617 km,concesionaria,37224.88038277512
+13600,RAV4,2017.0,Blanco,Nafta,Automática,2.0,93000 km,concesionaria,25741.626794258373
+16195,Hilux SW4,2016.0,Gris,Diésel,Automática,2.8,99800 km,concesionaria,39000.0
+16184,Hilux SW4,2020.0,Gris,Diésel,Automática,2.8,19500 km,concesionaria,43923.44497607656
+13479,RAV4,2008.0,Plateado,Nafta,Automática,2.4,130000 km,concesionaria,11952.057416267942
+4894,Corolla Cross,2023.0,Plateado,Híbrido/Nafta,Automática,1.8,532 km,particular,32900.0
+4397,Corolla Cross,2023.0,Blanco,Nafta,Automática,2.0,0 km,tienda,30794.258373205743
+16352,Hilux SW4,2014.0,,Diésel,Manual,3.0,108000 km,concesionaria,26000.0
+16133,Hilux SW4,2013.0,Blanco,Diésel,Automática,3.0,230000 km,concesionaria,25000.0
+16471,Hilux SW4,2022.0,Plateado,Diésel,Automática,2.8,26800 km,concesionaria,55000.0
+4640,Corolla Cross,2023.0,,Nafta,Automática,2.0,0 km,concesionaria,31483.253588516745
+16543,Hilux SW4,2011.0,,Diésel,Automática,3.0,230000 km,particular,25500.0
+15909,Hilux SW4,2021.0,,Diésel,Automática,2.8,1000 km,concesionaria,60000.0
+15906,Hilux SW4,2013.0,Blanco,Diésel,Automática,3.0,305000 km,particular,24000.0
+16427,Hilux SW4,2008.0,Verde,Diésel,Automática,3.0,175000 km,particular,19500.0
+13601,RAV4,2012.0,Blanco,Nafta,Automática,2.4,160000 km,concesionaria,13500.0
+16670,Hilux SW4,2019.0,Blanco,Diésel,Automática,2.8,57000 km,particular,40669.85645933014
+16131,Hilux SW4,2019.0,Plateado,Diésel,Manual,2.8,41000 km,concesionaria,36363.63636363636
+15896,Hilux SW4,2010.0,Negro,Diésel,Manual,3.0,204000 km,particular,23900.0
+4568,Corolla Cross,2021.0,Blanco,Híbrido/Nafta,Automática,1.8,41000 km,concesionaria,31578.947368421053
+15858,Hilux SW4,2022.0,Gris,Diésel,Automática,2.8,20100 km,tienda,56449.76076555024
+4836,Corolla Cross,2022.0,,Nafta,Automática,2.0,14000 km,particular,31000.0
+13544,RAV4,2022.0,Blanco,Nafta,Automática,2.5,27000 km,concesionaria,57500.0
+15820,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,0 km,tienda,53687.36842105263
+16480,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,0 km,concesionaria,55979.904306220094
+13581,RAV4,2019.0,Plateado,Híbrido/Nafta,Automática,1,66000 km,tienda,32382.775119617225
+4843,Corolla Cross,2023.0,,Nafta,Automática,2.0,8000 km,particular,40191.387559808616
+4722,Corolla Cross,2021.0,Gris,Nafta,Automática,2.0,50260 km,concesionaria,25358.851674641148
+4398,Corolla Cross,2023.0,Blanco,Nafta,Automática,2.0,21000 km,concesionaria,31674.64114832536
+4543,Corolla Cross,2022.0,Gris,Nafta,Automática,2.0,74001 km,concesionaria,33700.0
+16060,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,0 km,concesionaria,57000.0
+15853,Hilux SW4,2017.0,,Diésel,Automática,2.8,135000 km,concesionaria,33483.15789473684
+9775,Hilux SW4,2006.0,,Diésel,Manual,3.0,228000 km,particular,18000.0
+16329,Hilux SW4,2015.0,,Nafta,Automática,2.7,80000 km,concesionaria,26000.0
+4690,Corolla Cross,2024.0,Azul,Híbrido/Nafta,Automática,1.8,2024 km,concesionaria,39000.0
+16145,Hilux SW4,2018.0,Gris,Diésel,Automática,2.8,137000 km,concesionaria,37800.0
+4670,Corolla Cross,2023.0,Gris,Híbrido/Nafta,Automática,1.8,0 km,concesionaria,37607.65550239234
+4429,Corolla Cross,2022.0,Blanco,Nafta,Automática,2.0,2700 km,concesionaria,34900.0
+16375,Hilux SW4,2019.0,,Diésel,Automática,2.8,88000 km,concesionaria,41900.0
+15977,Hilux SW4,2020.0,,Diésel,Manual,2.8,65000 km,particular,42500.0
+16132,Hilux SW4,2015.0,Dorado,Diésel,Manual,3.0,100000 km,concesionaria,29186.6028708134
+13621,RAV4,2015.0,,Nafta,Automática,2.0,135391 km,particular,19000.0
+16630,Hilux SW4,2021.0,,Diésel,Manual,2.8,36400 km,particular,50000.0
+16709,Hilux SW4,2018.0,,Diésel,Automática,2.8,115000 km,particular,33500.0
+9808,Hilux SW4,2011.0,,Diésel,Automática,3.0,230000 km,particular,23000.0
+13646,RAV4,2019.0,Blanco,Híbrido,Automática secuencial,2.5,62598 km,concesionaria,38000.0
+9778,Hilux SW4,2011.0,,Diésel,Automática,3.0,313000 km,particular,20000.0
+4804,Corolla Cross,2022.0,Blanco,Nafta,Automática,2.0,29000 km,particular,32500.0
+4431,Corolla Cross,2023.0,Negro,Nafta,Automática,2.0,0 km,tienda,30624.88038277512
+4468,Corolla Cross,2024.0,Gris,Nafta,Automática,2.0,1000 km,particular,32057.416267942583
+15868,Hilux SW4,2023.0,Blanco,Diésel,Automática,2.8,500 km,particular,49900.0
+9856,Hilux SW4,2006.0,,Diésel,Automática,3.0,249000 km,particular,16746.41148325359
+4650,Corolla Cross,2024.0,,Híbrido/Nafta,Automática,1.8,1000 km,particular,34000.0
+16334,Hilux SW4,2021.0,Blanco,Diésel,Automática,2.8,28500 km,concesionaria,51000.0
+16534,Hilux SW4,2017.0,Plateado,Diésel,Automática,2.8,118000 km,particular,33500.0
+15867,Hilux SW4,2023.0,Gris,Diésel,Manual,2.8,0 km,tienda,55406.6985645933
+15849,Hilux SW4,2017.0,Blanco,Diésel,Automática,2.8,122400 km,concesionaria,36172.24880382775
+4465,Corolla Cross,2024.0,Gris,Nafta,Automática,2.0,500 km,concesionaria,35000.0
+16089,Hilux SW4,2018.0,Gris,Diésel,Automática,2.8,105000 km,concesionaria,35500.0
+16339,Hilux SW4,2021.0,Negro,Diésel,Automática,2.8,63437 km,concesionaria,43923.44497607656
+16437,Hilux SW4,2018.0,Gris,Diésel,Automática,2.8,170000 km,concesionaria,38000.0
+16463,Hilux SW4,2009.0,Gris,Diésel,Manual,3.0,267220 km,tienda,23444.976076555024
+16281,Hilux SW4,2021.0,Blanco,Diésel,Automática,2.8,39000 km,concesionaria,52000.0
+13613,RAV4,2018.0,Blanco,Nafta,Automática,2.5,140880 km,concesionaria,29800.0
+4683,Corolla Cross,2023.0,Blanco,Híbrido/Nafta,Automática,1.8,0 km,concesionaria,34162.67942583732
+15941,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,2700 km,concesionaria,57500.0
+16152,Hilux SW4,2023.0,Negro,Diésel,Automática,2.8,0 km,concesionaria,61722.48803827752
+16098,Hilux SW4,2023.0,Negro,Diésel,Automática,2.8,0 km,concesionaria,62200.95693779904
+16403,Hilux SW4,2023.0,Gris,Diésel,Automática,2.8,0 km,concesionaria,51674.64114832536
+16207,Hilux SW4,2010.0,Plateado,Diésel,Manual,3.0,171690 km,concesionaria,20574.16267942584
+15844,Hilux SW4,2019.0,Blanco,Diésel,Automática,2.8,57000 km,concesionaria,43540.66985645933
+4612,Corolla Cross,2022.0,Negro,Nafta,Automática,2.0,34985 km,concesionaria,30143.54066985646
+4705,Corolla Cross,2024.0,,Híbrido/Nafta,Automática,1.8 HEV,1111 km,particular,50000.0
+16324,Hilux SW4,2021.0,Rojo,Diésel,Automática,2.8,23000 km,concesionaria,55000.0
+16567,Hilux SW4,2016.0,,Diésel,Automática,2.8,94000 km,particular,35500.0
+16024,Hilux SW4,2017.0,,Diésel,Automática,2.8,74000 km,particular,38500.0
+13549,RAV4,2019.0,Gris,Nafta,Automática,2.0,50120 km,concesionaria,27655.502392344497
+16698,Hilux SW4,2015.0,Negro,Diésel,Manual,3.0,112000 km,particular,33000.0
+15899,Hilux SW4,2011.0,,Diésel,Automática,3.0,170000 km,particular,22500.0
+16643,Hilux SW4,1998.0,Verde,Diésel,Manual,3.0,380000 km,particular,14500.0
+4425,Corolla Cross,2024.0,Gris,Nafta,Automática,2.0,0 km,tienda,29747.36842105263
+9795,Hilux SW4,2018.0,Gris,Diésel,Automática,Diesel 2.8,91000 km,concesionaria,40000.0
+9835,Hilux SW4,2022.0,,Diésel,Automática,2.8,70000 km,particular,47500.0
+13516,RAV4,2014.0,,Nafta,Automática,2.0,160000 km,particular,17800.0
+16018,Hilux SW4,2017.0,Blanco,Diésel,Manual,2.8,139000 km,tienda,33492.82296650718
+4762,Corolla Cross,2022.0,,Nafta,Automática,2.0,30000 km,concesionaria,34000.0
+16063,Hilux SW4,2010.0,Gris,Diésel,Automática,3.0,214000 km,concesionaria,21913.875598086124
+16175,Hilux SW4,2015.0,Gris,Nafta,Automática,2.7,130000 km,concesionaria,27000.0
+16611,Hilux SW4,2008.0,,Diésel,Automática,3.0,240000 km,particular,19500.0
+15850,Hilux SW4,2021.0,Gris,Diésel,Manual,2.8,82794 km,tienda,38277.511961722485
+4537,Corolla Cross,2021.0,Blanco,Híbrido/Nafta,Automática,1.8,20000 km,particular,35000.0
+16369,Hilux SW4,2006.0,,Diésel,Automática,3.0,327000 km,concesionaria,19200.0
+4591,Corolla Cross,2023.0,Blanco,Híbrido/Nafta,Automática,1.8,0 km,concesionaria,36172.24880382775
+4707,Corolla Cross,2022.0,Blanco,Nafta,Automática,2.0,52397 km,concesionaria,23827.75119617225
+4889,Corolla Cross,2024.0,,Híbrido/Nafta,Automática,1.8,500 km,particular,49500.0
+15791,Hilux SW4,2024.0,Blanco,Diésel,Automática,2.8,0 km,concesionaria,54736.84210526316
+16552,Hilux SW4,1999.0,,Diésel,Manual,3.0,351000 km,particular,13500.0
+16589,Hilux SW4,2023.0,,Diésel,Automática,2.8,13000 km,particular,53000.0
+16172,Hilux SW4,2021.0,,Diésel,Automática,2.8,59000 km,concesionaria,46500.0
+16624,Hilux SW4,2021.0,,Diésel,Manual,2.8,23900 km,particular,43000.0
+4685,Corolla Cross,2022.0,Gris,Nafta,Automática,2.0,74005 km,concesionaria,33700.0
+4812,Corolla Cross,2023.0,,Nafta,Automática,2.0,4500 km,particular,28900.0
+4740,Corolla Cross,2021.0,,Nafta,Automática,2.0,60000 km,particular,25837.32057416268
+13489,RAV4,2019.0,Blanco,Nafta,Automática,2.5,70154 km,tienda,42000.0
+16723,Hilux SW4,2016.0,,Diésel,Automática,2.8,41000 km,particular,38000.0
+4764,Corolla Cross,2023.0,Blanco,Nafta,Automática,2.0,1111 km,particular,38000.0
+16072,Hilux SW4,2008.0,,Diésel,Manual,3.0,220000 km,concesionaria,20574.16267942584
+16662,Hilux SW4,2020.0,,Diésel,Manual,2.8,52000 km,particular,38500.0
+9767,Hilux SW4,2019.0,Gris,Diésel,Manual,2.8,85291 km,concesionaria,31900.0
+4892,Corolla Cross,2024.0,Blanco,Híbrido/Nafta,Automática,1.8,1111111 km,concesionaria,28612.44019138756
+15802,Hilux SW4,2024.0,Gris,Diésel,Automática,2.8,10000 km,concesionaria,39900.0
+16509,Hilux SW4,2012.0,,Diésel,Automática,3.0,320000 km,particular,22500.0
+13543,RAV4,2013.0,Blanco,Nafta,Automática,2.5,129500 km,concesionaria,19900.0
+4564,Corolla Cross,2024.0,Gris,Nafta,Automática,2.0,0 km,concesionaria,32057.416267942583
+13487,RAV4,2011.0,Blanco,Nafta,Automática,2.4,130000 km,concesionaria,12000.0
+16176,Hilux SW4,2012.0,Dorado,Diésel,Automática,3.0,220000 km,concesionaria,25000.0
+16452,Hilux SW4,2020.0,Gris,Diésel,Automática,2.8,54000 km,concesionaria,43062.2009569378
+15827,Hilux SW4,2020.0,Gris,Diésel,Automática,2.8,81700 km,concesionaria,40500.0
+4427,Corolla Cross,2024.0,Gris oscuro,Nafta,Automática,2,0 km,concesionaria,34500.0
+13481,RAV4,2018.0,Plateado,Nafta,Automática,2.5,57000 km,particular,42000.0
+16041,Hilux SW4,2012.0,,Diésel,Automática,3.0,300000 km,particular,24000.0
+4820,Corolla Cross,2023.0,,Nafta,Automática,2.0,6900 km,particular,28325.35885167464
+16430,Hilux SW4,2017.0,,Diésel,Automática,2.8,149000 km,concesionaria,37000.0
+16409,Hilux SW4,2008.0,,Diésel,Automática,3.0,171000 km,concesionaria,23000.0
+15911,Hilux SW4,2016.0,Gris,Diésel,Automática,2.8,214000 km,particular,37000.0
+13574,RAV4,2023.0,,Nafta,Automática,2.5,12000 km,concesionaria,65000.0
+4629,Corolla Cross,2021.0,,Nafta,Automática,2.0,45000 km,concesionaria,28611.48325358852
+4483,Corolla Cross,2021.0,,Nafta,Automática,2.0,35000 km,particular,28000.0
+4835,Corolla Cross,2024.0,Gris,Nafta,Automática,2.0,600 km,particular,36500.0
+15928,Hilux SW4,2019.0,,Diésel,Automática,2.8,80000 km,particular,42000.0
+4849,Corolla Cross,2022.0,,Nafta,Automática,2.0,97500 km,particular,29000.0
+16549,Hilux SW4,2023.0,,Diésel,Automática,2.8,5900 km,particular,54500.0
+15808,Hilux SW4,2023.0,Plateado,Diésel,Automática,2.8,0 km,tienda,53687.36842105263
+9791,Hilux SW4,2006.0,,Diésel,Manual,3.0,230000 km,concesionaria,17500.0
+4476,Corolla Cross,2024.0,Blanco,Híbrido,Automática,1.8,555 km,particular,41000.0
